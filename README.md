@@ -1,2 +1,3 @@
 # spring-data-redis
-This project is spring boot application for redis
+
+## Download 'https://github.com/microsoftarchive/redis/releases/tag/win-3.2.100'

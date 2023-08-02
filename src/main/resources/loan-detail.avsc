@@ -1,0 +1,13 @@
+{
+  "type" : "record",
+  "name" : "LoanDetailPojo",
+  "namespace" : "com.vishaluplanch.org.pojo",
+  "fields" : [ {
+    "name" : "events",
+    "type" : {
+      "type" : "array",
+      "items" : "string",
+      "java-class" : "java.util.List"
+    }
+  } ]
+}

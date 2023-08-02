@@ -1,0 +1,35 @@
+[
+    {
+        "SizeRange": null,
+        "SizeProfile": null
+    },
+    {
+        "SizeRange": null,
+        "SizeProfile": null
+    },
+    "result":"false"
+],
+
+[
+    {
+        "SizeRange": "nonNul",
+        "SizeProfile": null
+    },
+    {
+        "SizeRange": null,
+        "SizeProfile": null
+    },
+    "result":"false"
+]
+
+[
+    {
+        "SizeRange": null,
+        "SizeProfile": null
+    },
+    {
+        "SizeRange": "nonNull",
+        "SizeProfile":null
+    },
+    "result":"false"
+]
